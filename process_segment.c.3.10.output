@@ -1,0 +1,7 @@
+
+Pid of the process is = 689
+Addresses which fall into:
+ 1) Data  segment = 0x2102c
+ 2) BSS   segment = 0x21034
+ 3) Code  segment = 0x10470
+ 4) Stack segment = 0x7efceaec
